@@ -1,3 +1,6 @@
 [submodule "nginx"]
 	path = nginx
 	url = https://github.com/nginx/nginx.git
+[submodule "test-repo"]
+	path = test-repo
+	url = https://github.com/Zburator/test-repo.git
